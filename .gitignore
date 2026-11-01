@@ -1,0 +1,4 @@
+.DS_Store
+# Build output (rebuild with WizBar/build.sh)
+WizBar/WizBar.app/
+__pycache__/
